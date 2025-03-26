@@ -19,13 +19,6 @@
 ![Adobe Acrobat](https://img.shields.io/badge/Adobe%20Acrobat-%23EC1C24.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-%23007ACC.svg?style=for-the-badge&logo=adobelightroom&logoColor=white)
 
-## 📊 Estadísticas de GitHub:
-![](https://github-readme-stats.vercel.app/api?username=joseimsss&theme=default&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=joseimsss&theme=default&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joseimsss&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=joseimsss&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Creado con orgullo con GPRM ( https://gprm.itsvg.in ) -->
