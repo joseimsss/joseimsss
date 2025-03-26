@@ -1,24 +1,16 @@
-# 💫 Sobre Mí:
-- 👨‍💻 Apasionado por la creación de experiencias digitales atractivas y funcionales.
-- 🚀 Enfocado en la escritura de código limpio y eficiente.
-- 🌱 Comprometido con el aprendizaje continuo.
+<h2> Hi, I'm joseimsss!</h2>
+<p><em>Currently studying... </em></p>
 
-## 🌐 Redes Sociales:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/joseimsss)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mryalan)
+[![Instagram: joseimsss]([https://](https://www.instagram.com/joseimsss/))
 
-## 💻 Tecnologías:
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-## 🎨 Diseño Gráfico:
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%23007ACC.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-%23DA1F26.svg?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
-![Adobe Acrobat](https://img.shields.io/badge/Adobe%20Acrobat-%23EC1C24.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-%23007ACC.svg?style=for-the-badge&logo=adobelightroom&logoColor=white)
+### A little more about me...  
 
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS, Python],
+  design: [Photoshop, Creative Cloud, Illustrator, Lightroom],
+}
+```
 ---
-
-[![](https://visitcount.itsvg.in/api?id=joseimsss&icon=2&color=0)](https://visitcount.itsvg.in)
