@@ -1,21 +1,31 @@
-<h1 align="center">Hi 👋, I'm joseimsss</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 💫 Sobre Mí:
+- 👨‍💻 Apasionado por la creación de experiencias digitales atractivas y funcionales.
+- 🚀 Enfocado en la escritura de código limpio y eficiente.
+- 🌱 Comprometido con el aprendizaje continuo.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joseimsss&label=Profile%20views&color=0e75b6&style=flat" alt="joseimsss" /> </p>
+## 🌐 Redes Sociales:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/joseimsss)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mryalan)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joseimsss" alt="joseimsss" /></a> </p>
+## 💻 Tecnologías:
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/joseimsss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joseimsss" height="30" width="40" /></a>
-<a href="https://discord.gg/mryalan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mryalan" height="30" width="40" /></a>
-</p>
+## 🎨 Diseño Gráfico:
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%23007ACC.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-%23DA1F26.svg?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
+![Adobe Acrobat](https://img.shields.io/badge/Adobe%20Acrobat-%23EC1C24.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-%23007ACC.svg?style=for-the-badge&logo=adobelightroom&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 📊 Estadísticas de GitHub:
+![](https://github-readme-stats.vercel.app/api?username=joseimsss&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=joseimsss&theme=default&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joseimsss&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseimsss&show_icons=true&theme=dark&locale=en&layout=compact" alt="joseimsss" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joseimsss&show_icons=true&theme=dark&locale=en" alt="joseimsss" /></p>
+[![](https://visitcount.itsvg.in/api?id=joseimsss&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseimsss&theme=dark" alt="joseimsss" /></p>
+<!-- Creado con orgullo con GPRM ( https://gprm.itsvg.in ) -->
