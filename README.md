@@ -1,8 +1,4 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/tu-perfil)
-[![Twitter](https://img.shields.io/badge/Twitter-@tu_usuario-blue?logo=twitter)](https://twitter.com/tu_usuario)
-[![GitHub](https://img.shields.io/badge/GitHub-tu_usuario-black?logo=github)](https://github.com/tu_usuario)
+# joseimsss
 
 ## Sobre mí
 
@@ -21,8 +17,3 @@ Desarrollador apasionado por la tecnología y la innovación. Me especializo en 
 ## Estadísticas de GitHub
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=dark)
-
-## Contacto
-
-- Correo electrónico: [tu_correo@example.com](mailto:tu_correo@example.com)
-- Página web: [tu-sitio-web.com](https://tu-sitio-web.com)
