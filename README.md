@@ -4,7 +4,7 @@
 ### A little more about me...  
 
 ```javascript
-const thai = {
+const joseimsss = {
   pronouns: "he" | "him",
   code: [JavaScript, CSS, JSON, Python, HTML],
   design: [Photoshop, Creative Cloud, Illustrator, Lightroom],
