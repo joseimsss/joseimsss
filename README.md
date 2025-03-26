@@ -1,4 +1,4 @@
-<h2> Hi, I'm joseimsss!</h2>
+<h2> Hi, I'm Jose!</h2>
 <p><em>Currently studying... </em></p>
 
 ### A little more about me...  
