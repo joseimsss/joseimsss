@@ -3,10 +3,6 @@
 
 ### A little more about me...  
 
-```python
-print("Hello world!")
-```
-
 ```javascript
 const joseimsss = {
   pronouns: "he" | "him",
